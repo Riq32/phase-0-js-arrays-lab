@@ -1,9 +1,12 @@
 {
   "name": "phase-0-js-arrays-lab",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "inventoryManagement.js",
   "scripts": {
     "test": "jest"
+  },
+  "jest": {
+    "testMatch": ["**/test/**/*.test.js"]
   },
   "keywords": [],
   "author": "",
